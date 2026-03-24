@@ -883,6 +883,20 @@ Output: Vendor assessment package with risk score, contract recommendations, and
 | **pip** | Python package manager |
 | **Git** | For cloning the repository |
 
+### 🌍 Universal Compatibility
+
+While optimized for **Claude Code**, the AI Agent Suite is platform-agnostic and designed to empower any modern AI-assisted development environment:
+
+| Platform | Integration Method |
+|---|---|
+| **Claude Code** | Native support with slash commands (`/geo`, `/autoresearch`) |
+| **Cursor / VS Code** | Add `agents/` and `commands/` to Project Context or `.cursorrules` |
+| **Antigravity / Roo Code** | Full **MCP support** via jCodeMunch for token efficiency |
+| **Claude Desktop** | Install as an MCP tool suite for high-level business ops |
+
+> [!NOTE]
+> The agents are **Markdown-based**. Any LLM that can read local files can follow these industrial-grade protocols.
+
 ### Standard Installation
 
 ```bash
