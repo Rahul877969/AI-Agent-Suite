@@ -2,18 +2,18 @@
 
 # AI Agent Suite
 
-### Enterprise AI Workforce Platform
+### Enterprise AI Workforce Platform — Now Universal & Autonomous
 
-**331 Autonomous Agents** · **325 Command Suites** · **14 Departments** · **Zero External Data Exposure**
+435 Autonomous Agents · **325 Command Suites** · **14 Departments** · **Zero External Data Exposure**
 
 [![License](https://img.shields.io/badge/License-Enterprise-blue.svg)](#license)
 [![Security](https://img.shields.io/badge/Security-Zero--Trust-green.svg)](#-security--trust-architecture)
 [![Compliance](https://img.shields.io/badge/Compliance-SOC2%20|%20ISO27001%20|%20HIPAA%20|%20GDPR-orange.svg)](#-compliance-readiness)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)](#-installation)
+[![Platform](https://img.shields.io/badge/Platform-Claude%20Code%20|%20Cursor%20|%20VS%20Code%20|%20JetBrains%20|%20Antigravity-lightgrey.svg)](#-installation)
 
 ---
 
-*A self-hosted, air-gappable AI operations platform that deploys 331 domain-specific agents inside your terminal — no data leaves your infrastructure.*
+*A self-hosted, air-gappable AI operations platform that deploys 435 domain-specific agents across 5 IDE platforms — with autonomous overnight optimization loops and 95% token cost reduction.*
 
 </div>
 
@@ -27,7 +27,9 @@
 - [Security & Trust Architecture](#-security--trust-architecture)
 - [Compliance Readiness](#-compliance-readiness)
 - [Platform Architecture](#-platform-architecture)
-- [Operational Departments (14)](#-14-operational-departments-331-agents)
+- [Operational Departments (14)](#-14-operational-departments-435-agents)
+- [New: Universal Platform Support](#-universal-platform-support--run-anywhere)
+- [New: Self-Learning Skills & Event-Driven Automation](#-self-learning-skills--event-driven-automation)
 - [Deployment & Installation](#-installation)
 - [IT Administration Guide](#-it-administration-guide)
 - [Enterprise Workflows](#-enterprise-workflows)
@@ -38,13 +40,13 @@
 
 ## 📋 Executive Summary
 
-The **AI Agent Suite** is an enterprise-grade AI operations platform that deploys **331 domain-specific autonomous agents** governed by a master orchestrator (**Jarvis**) and a multi-phase pipeline engine (**NEXUS**). Unlike cloud-based AI tools, this suite operates entirely within your existing infrastructure — agents are markdown-based instruction sets that run locally inside Claude Code, meaning **zero proprietary data is transmitted to third-party servers beyond the LLM provider you already use**.
+The **AI Agent Suite** is an enterprise-grade AI operations platform that deploys **435 domain-specific autonomous agents** governed by a master orchestrator (**Jarvis**) and a multi-phase pipeline engine (**NEXUS**). Unlike cloud-based AI tools, this suite operates entirely within your existing infrastructure — agents are markdown-based instruction sets that run locally inside Claude Code, meaning **zero proprietary data is transmitted to third-party servers beyond the LLM provider you already use**.
 
 ### Key Differentiators
 
 | Capability | AI Agent Suite | Generic AI Assistants |
 |---|---|---|
-| **Specialization** | 331 domain-specific agents with deep expertise | 1 generalist model for everything |
+| **Specialization** | 435 domain-specific agents with deep expertise | 1 generalist model for everything |
 | **Data Residency** | Runs on your infrastructure; no extra data exposure | Cloud-hosted; data leaves your network |
 | **Orchestration** | Multi-agent pipelines with quality gates | Single-turn, reactive responses |
 | **Compliance** | Built-in SOC 2, ISO 27001, HIPAA, GDPR agents | No compliance awareness |
@@ -56,7 +58,21 @@ The **AI Agent Suite** is an enterprise-grade AI operations platform that deploy
 
 ## 🔥 The Secret Weapons — What Makes This Powerful
 
-Most AI coding tools are **reactive** — they wait for your next prompt, process your entire file, burn tokens, and stop working the moment you close your laptop. This suite has two technologies that fundamentally change that equation:
+Most AI coding tools are **reactive** — they wait for your next prompt, process your entire file, burn tokens, and stop working the moment you close your laptop. This suite has **four breakthrough technologies** that fundamentally change that equation:
+
+### 🌍 Universal Platform Support — Run Anywhere
+
+The integrated **Universal Adapter Layer** enables the agent suite to run across 5 major IDE platforms with a single installation:
+
+| Platform | Adapter | Status |
+|---|---|---|
+| **Claude Code** | Native | ✅ Built-in |
+| **Cursor** | cursor-adapter | ✅ Full support |
+| **VS Code + Copilot** | vscode-copilot-adapter | ✅ Full support |
+| **JetBrains (IDEA/PyCharm/WebStorm)** | jetbrains-adapter | ✅ Full support |
+| **Antigravity** | antigravity-adapter | ✅ Full support |
+
+**Impact**: No vendor lock-in. Deploy once, run everywhere your team works.
 
 ### 🧬 jCodeMunch — The 95% Token Killer
 
@@ -130,13 +146,15 @@ The `autoresearch-scientist` agent then enters a continuous cycle:
 
 > **The compounding effect**: Queue 5 optimization tasks on Friday evening. By Monday, your app is faster, lighter, more tested, and fully committed — with every change backed by measurable improvement.
 
-### ⚡ Why These Two Together Are Unstoppable
+### ⚡ Why These Four Together Are Unstoppable
 
-| Without the Suite | With jCodeMunch + autoresearch |
+| Without the Suite | With Universal + jCodeMunch + autoresearch + self-learning |
 |---|---|
+| Locked to one IDE vendor | Run on 5 platforms — no lock-in |
 | Agent reads 1,500 lines per operation | Agent reads 15 lines per operation |
 | Burns through API budget in 30 minutes | Runs for 8+ hours overnight on same budget |
 | Stops when you stop prompting | Runs infinite loops while you sleep |
+| Static capabilities | Agents learn and improve from every session |
 | Makes changes you have to manually verify | Self-verifies every change with YOUR eval command |
 | Breaks things and leaves them broken | Auto-reverts any change that degrades metrics |
 
@@ -170,6 +188,20 @@ The integrated **jCodeMunch** MCP server uses AST (Abstract Syntax Tree) parsing
 - **95% fewer tokens consumed** per operation
 - **Dramatically lower API costs** at enterprise scale
 - **Elimination of rate-limit throttling** during intensive workflows
+
+### 4. Self-Learning Skills & Event-Driven Automation
+
+New in this release:
+
+| Feature | Description | Impact |
+|---|---|---|
+| **continuous-learning-v2** | Agents that learn from every session and improve over time | Capabilities compound with usage |
+| **autonomous-loops** | Advanced multi-agent DAG orchestration (Ralphinho pattern) | Complex workflows run unattended |
+| **benchmark** | Built-in performance measurement and comparison | Data-driven optimization |
+| **hooks/** | Event-driven trigger system for automated workflows | React to git events, file changes, schedules |
+| **contexts/** | Persistent session memory across conversations | Agents remember your preferences and patterns |
+
+**Impact**: The suite evolves with your team — getting smarter, faster, and more aligned with your workflows every day.
 
 ---
 
@@ -217,7 +249,7 @@ The suite includes an **Agentic Identity & Trust Architect** (`agentic-identity-
 
 ```
 The suite installs:
-├── agents/    → 331 markdown files (instruction sets only — no executables)
+├── agents/    → 435 markdown files (instruction sets only — no executables)
 ├── commands/  → 325 markdown files (command templates — no executables)  
 ├── skills/    → Skill modules (instruction sets — no executables)
 └── jCodeMunch → Open-source MCP server for AST-based code parsing
@@ -292,7 +324,7 @@ The compliance agents automate evidence collection wherever possible:
 │  │       │                                                     │ │
 │  │       ▼                                                     │ │
 │  │  ┌──────────────────────────────────────────────────────┐  │ │
-│  │  │              331 Specialist Agents                    │  │ │
+│  │  │              435 Specialist Agents                    │  │ │
 │  │  │                                                      │  │ │
 │  │  │  Engineering(80) · DevOps(34) · Security(18)         │  │ │
 │  │  │  Data/AI(22) · Testing(16) · GEO/SEO(10)            │  │ │
@@ -328,13 +360,13 @@ The compliance agents automate evidence collection wherever possible:
 
 | Mode | Agents Activated | Timeline | Best For |
 |---|---|---|---|
-| **NEXUS-Full** | All 331 | 12–24 weeks | Complete product lifecycle |
+| **NEXUS-Full** | All 435 | 12–24 weeks | Complete product lifecycle |
 | **NEXUS-Sprint** | 15–25 | 2–6 weeks | Feature builds, MVPs |
 | **NEXUS-Micro** | 5–10 | 1–5 days | Targeted tasks, audits, reviews |
 
 ---
 
-## 🏛️ 14 Operational Departments (331 Agents)
+## 🏛️ 14 Operational Departments (435 Agents)
 
 > Click any department below to explore its agents, capabilities, and sample workflows.
 
@@ -1062,9 +1094,11 @@ Based on the NEXUS Executive Brief analysis:
 | **Timeline Compression** | 40–60% faster delivery through parallel agent execution |
 | **Defect Reduction** | ~80% fewer production defects via continuous Dev↔QA loops |
 | **Token Cost Savings** | 95% reduction via jCodeMunch AST parsing |
+| **Platform Reach** | 5x expansion (Claude Code → Cursor, VS Code, JetBrains, Antigravity) |
 | **Handoff Failures** | 73% → near-zero with standardized handoff templates |
 | **Incident Response** | < 30 min MTTR with automated runbooks |
 | **Compliance Prep** | 50% faster audit readiness with automated evidence collection |
+| **Autonomous Operations** | 8+ hours of overnight optimization on a single API budget |
 
 ### Time Saved by Department
 
@@ -1075,6 +1109,17 @@ Based on the NEXUS Executive Brief analysis:
 | **Compliance** | Manual evidence collection | Automated evidence pipelines | ~60% effort |
 | **Sales** | 10+ hrs/week on research & proposals | Auto-generated, data-driven proposals | ~8 hrs/week |
 | **Marketing** | Agency fees for SEO/GEO audits | In-house autonomous audits | Cost elimination |
+| **DevOps** | Manual CI/CD configuration | Event-driven hooks + auto-remediation | ~50% setup time |
+
+### New Value from Integrated Capabilities
+
+| Capability | Business Value |
+|---|---|
+| **Universal Adapters** | No vendor lock-in; deploy to any IDE your team uses |
+| **Continuous Learning** | Agents improve with every session; capabilities compound |
+| **Event-Driven Hooks** | Automate responses to git events, deployments, incidents |
+| **Persistent Contexts** | Agents remember your patterns; no re-explaining needed |
+| **Benchmark Suite** | Data-driven optimization decisions; measure before/after |
 
 ---
 
@@ -1082,13 +1127,13 @@ Based on the NEXUS Executive Brief analysis:
 
 ```
 claude-agent-suite/
-├── agents/              # 331 specialist agent definitions (markdown)
+├── agents/              # 435 specialist agent definitions (markdown)
 │   ├── jarvis.md        # Master orchestrator
 │   ├── nexus-strategy.md # NEXUS pipeline doctrine (800+ lines)
 │   ├── AGENT_REGISTRY.md # Complete agent catalog
 │   ├── EXECUTIVE-BRIEF.md # C-suite overview
 │   ├── QUICKSTART.md    # 5-minute activation guide
-│   └── ...              # 326 specialist agents
+│   └── ...              # 430 specialist agents
 ├── commands/            # 325 domain-specific command suites
 │   ├── jarvis.md        # Master command router
 │   ├── security/        # Security command suite
@@ -1096,6 +1141,20 @@ claude-agent-suite/
 │   ├── sales/           # Sales pipeline commands
 │   └── ...              # 68 additional command suites
 ├── skills/              # Installable skill modules
+│   ├── continuous-learning-v2/  # Self-improving agents
+│   ├── autonomous-loops/        # Multi-agent DAG orchestration
+│   ├── benchmark/               # Performance measurement
+│   └── ecc-imports/             # Skill imports
+├── contexts/            # Persistent session memory
+├── hooks/               # Event-driven automation triggers
+├── universal/           # Cross-platform adapters (5 IDEs)
+│   ├── adapters/
+│   │   ├── cursor/
+│   │   ├── vscode-copilot/
+│   │   ├── jetbrains/
+│   │   └── antigravity/
+│   └── core/
+├── rules/               # Agentic behavior rules
 ├── install.sh           # Linux/macOS installer
 ├── install.ps1          # Windows PowerShell installer
 └── README.md            # This file
@@ -1126,6 +1185,6 @@ claude-agent-suite/
 
 **AI Agent Suite** — Enterprise AI Operations Platform
 
-*331 Agents · 14 Departments · Zero External Data Exposure · Enterprise-Grade Security*
+*435 Agents · 5 Platforms · 14 Departments · Zero External Data Exposure · Enterprise-Grade Security*
 
 </div>
